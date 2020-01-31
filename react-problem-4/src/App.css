@@ -1,0 +1,51 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(26, 24, 24);
+ }
+
+.button{
+  background-color: rgb(26, 24, 24);
+  border:rgb(26, 24, 24);
+  font-size: 20px;
+  padding: 14px 40px;
+  color: white;
+  margin-left: 200px;
+
+}
+
+.button2{
+  background-color:rgb(26, 24, 24);
+  border: rgb(26, 24, 24);
+  font-size: 20px;
+  padding: 14px 40px;;
+  color: white;
+  margin-left: 700px;
+}
+
+.navbar{
+  height: 125px;
+  width: 100%;
+  background-color: cornflowerblue;
+  color: white; 
+}
+
+.title{
+  background-color: cornflowerblue;
+  color: black;
+}
+
+.content{
+   height: 60vh;
+   width: 70vw;
+   background-color: white;
+   margin-left: 200px;
+   margin-top: 40px;  
+
+}
+
+	
+  
+
+
+
